@@ -1,0 +1,1724 @@
+{
+	"drawioXML": "<mxfile>\n  <diagram id=\"kpITdh2Z1YcR2YZRO2jN\" name=\"Page-1\">\n    <mxGraphModel dx=\"3558\" dy=\"1753\" grid=\"0\" gridSize=\"10\" guides=\"1\" tooltips=\"1\" connect=\"0\" arrows=\"1\" fold=\"1\" page=\"0\" pageScale=\"1\" pageWidth=\"850\" pageHeight=\"1100\" math=\"0\" shadow=\"0\">\n      <root>\n        <mxCell id=\"0\" />\n        <mxCell id=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=9;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" parent=\"0\" />\n        <UserObject label=\"app\" value=\"app\" id=\"0077efbb-26d7-45a1-92be-9204088ebab5\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=46;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#fffefe\" vertex=\"1\" parent=\"1\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"2600\" height=\"1090\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"page.tsx\" value=\"page.tsx\" id=\"3d7f740b-2cd4-4347-b906-705086b5a9b7\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" vertex=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\">\n            <mxGeometry x=\"135\" y=\"120.00000000000003\" width=\"320\" height=\"490.0110775\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Server-Side Rendering of HomePage\" value=\"Server-Side Rendering of HomePage\" id=\"3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"3d7f740b-2cd4-4347-b906-705086b5a9b7\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Pass Products as Props to `CartClient`\" value=\"Pass Products as Props to `CartClient`\" id=\"3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"3d7f740b-2cd4-4347-b906-705086b5a9b7\">\n            <mxGeometry x=\"70\" y=\"200.00000000000003\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Initial Page Load\" value=\"Initial Page Load\" id=\"06e2c96a-b43f-4d58-9793-a2175688e005\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=15;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"3d7f740b-2cd4-4347-b906-705086b5a9b7\">\n            <mxGeometry x=\"70\" y=\"330.01107750000006\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"actions.ts\" value=\"actions.ts\" id=\"550a370e-b488-474d-a575-1e281cea4b25\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=22;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" vertex=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\">\n            <mxGeometry x=\"645\" y=\"120.00000000000003\" width=\"320\" height=\"230\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Execute `getProducts` on Server\" value=\"Execute `getProducts` on Server\" id=\"c13be024-c50c-4f4d-9667-9389d4359c6e\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"550a370e-b488-474d-a575-1e281cea4b25\">\n            <mxGeometry x=\"70\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"components\" value=\"components\" id=\"c16663fa-ffe2-4ffd-8c22-408e85064a9f\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=45;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f9f3f3\" vertex=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\">\n            <mxGeometry x=\"645\" y=\"390\" width=\"1845\" height=\"630\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"CartClient.tsx\" value=\"CartClient.tsx\" id=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=43;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;align=left;verticalAlign=bottom;spacing=0;spacingTop=-14;spacingLeft=15;arcSize=4;labelPosition=center;verticalLabelPosition=top;;fillColor=#f4e9e9\" vertex=\"1\" parent=\"c16663fa-ffe2-4ffd-8c22-408e85064a9f\">\n            <mxGeometry x=\"95\" y=\"69.99999999999999\" width=\"1680\" height=\"490.00000000000006\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Product List in `CartClient`\" value=\"Render Product List in `CartClient`\" id=\"b9036e51-8986-4dc2-87ce-36cc2d607b53\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"150\" y=\"70\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"User Clicks &#39;Add to cart&#39;\" value=\"User Clicks &#39;Add to cart&#39;\" id=\"5bbcf44c-740e-4b97-95c4-eddc7c8a964d\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"150\" y=\"200\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Execute &#39;addToCart&#39; Logic\" value=\"Execute &#39;addToCart&#39; Logic\" id=\"f9392483-98e0-4d02-b255-a12493a1df65\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"470\" y=\"179.87295289790032\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"React Re-renders Component\" value=\"React Re-renders Component\" id=\"228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"790\" y=\"172.43397436865223\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"UI Displays Updated Cart\" value=\"UI Displays Updated Cart\" id=\"79014061-99e0-4796-bf4d-ad384be860b4\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"1110\" y=\"172.43397436865223\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"58c42def-fd4c-4d64-bcb1-d041dff8ebb5\" value=\"Trigger addToCart&#xa;Function\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"5bbcf44c-740e-4b97-95c4-eddc7c8a964d\" target=\"f9392483-98e0-4d02-b255-a12493a1df65\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"370\" y=\"245\" />\n              <mxPoint x=\"370\" y=\"224.87295289790032\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"db592b4a-e2bd-475c-afd4-cfe94b190a5e\" value=\"Update Cart&#xa;State\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"f9392483-98e0-4d02-b255-a12493a1df65\" target=\"228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"690\" y=\"224.87295289790032\" />\n              <mxPoint x=\"690\" y=\"217.43397436865223\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"1c3757c3-68cb-43ed-96e6-f0df07d963fc\" value=\"Pass Updated&#xa;Cart Data&#xa;to UI\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a\" target=\"79014061-99e0-4796-bf4d-ad384be860b4\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <UserObject label=\"Initialize Cart State\" value=\"Initialize Cart State\" id=\"54061d33-44d9-49eb-a492-976ad13c70ad\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"150\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Empty Cart View\" value=\"Render Empty Cart View\" id=\"7e1f09eb-f5d5-4bf8-b620-6624578e1b61\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"470\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Update Cart State\" value=\"Update Cart State\" id=\"d9a5ec79-88cf-402c-9689-22baae77f62b\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=15;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"790\" y=\"330\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Recalculate Cart Total\" value=\"Recalculate Cart Total\" id=\"d768d12c-16d0-4c35-af77-c29f217b9fbf\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"1110\" y=\"302.43397436865223\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <UserObject label=\"Render Populated Cart View\" value=\"Render Populated Cart View\" id=\"a3bdacbc-06a8-4564-9450-3d3b03feea24\">\n          <mxCell style=\"rounded=1;whiteSpace=wrap;html=1;container=1;glass=0;comic=0;fontSize=12;fontColor=#615B5B;strokeWidth=0.7;strokeColor=#999190;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontStyle=0;\" vertex=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\">\n            <mxGeometry x=\"1430\" y=\"302.43397436865223\" width=\"180\" height=\"90\" as=\"geometry\" />\n          </mxCell>\n        </UserObject>\n        <mxCell id=\"7d27ab69-02a9-452e-81e9-263dba6353e8\" value=\"Provide Cart&#xa;State for&#xa;Rendering\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"54061d33-44d9-49eb-a492-976ad13c70ad\" target=\"7e1f09eb-f5d5-4bf8-b620-6624578e1b61\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28\" value=\"User Action:&#xa;Add Item\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"7e1f09eb-f5d5-4bf8-b620-6624578e1b61\" target=\"d9a5ec79-88cf-402c-9689-22baae77f62b\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"075b3ac0-6c05-4f2e-8a34-b8e93df2b966\" value=\"Propagate State&#xa;Change\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=11;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"d9a5ec79-88cf-402c-9689-22baae77f62b\" target=\"d768d12c-16d0-4c35-af77-c29f217b9fbf\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"1010\" y=\"375\" />\n              <mxPoint x=\"1010\" y=\"347.43397436865223\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"db6522df-5f59-45dd-92f0-68dcdb32c636\" value=\"Provide Updated&#xa;Data for&#xa;Rendering\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=14;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0abbe4db-b34d-4ce1-925e-202bb2dffd29\" source=\"d768d12c-16d0-4c35-af77-c29f217b9fbf\" target=\"a3bdacbc-06a8-4564-9450-3d3b03feea24\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"c7bb45aa-e517-444a-8b5e-d03f27aac52d\" value=\"Invoke `getProducts`&#xa;Server Action\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=10;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\" source=\"3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab\" target=\"c13be024-c50c-4f4d-9667-9389d4359c6e\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\" />\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"7dee1b22-51c1-4ab9-bf5a-fb2d782329a6\" value=\"Return Products&#xa;to Page&#xa;Component\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=20;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\" source=\"c13be024-c50c-4f4d-9667-9389d4359c6e\" target=\"3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"2530\" y=\"235.00000000000003\" />\n              <mxPoint x=\"2530\" y=\"69.99999999999997\" />\n              <mxPoint x=\"70\" y=\"69.99999999999997\" />\n              <mxPoint x=\"70\" y=\"365\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"b8eac258-6ad8-4d45-9e92-e0104a90b4c3\" value=\"Transmit Props&#xa;to `CartClient`\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=16;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\" source=\"3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1\" target=\"b9036e51-8986-4dc2-87ce-36cc2d607b53\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"530\" y=\"365.00000000000006\" />\n              <mxPoint x=\"530\" y=\"578.970602626222\" />\n              <mxPoint x=\"850\" y=\"578.970602626222\" />\n              <mxPoint x=\"850\" y=\"574.9999999999999\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n        <mxCell id=\"8e736ede-cd81-4698-8aaf-ed0e19d696df\" value=\"Pass Products&#xa;to Client&#xa;Component\" style=\"edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;sketch=0;jumpStyle=arc;jumpSize=17;orthogonalLoop=1;jettySize=auto;html=0;shadow=0;labelBackgroundColor=none;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;fontSize=14;fontColor=#5C5C5C;endArrow=block;endFill=1;endSize=5;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=#A1A1A1;strokeWidth=2;arcSize=50;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;container=1;\" edge=\"1\" parent=\"0077efbb-26d7-45a1-92be-9204088ebab5\" source=\"06e2c96a-b43f-4d58-9793-a2175688e005\" target=\"54061d33-44d9-49eb-a492-976ad13c70ad\">\n          <mxGeometry relative=\"1\" as=\"geometry\">\n            <Array as=\"points\">\n              <mxPoint x=\"520\" y=\"495.0110775\" />\n              <mxPoint x=\"520\" y=\"835.0000000000001\" />\n            </Array>\n          </mxGeometry>\n        </mxCell>\n      </root>\n    </mxGraphModel>\n  </diagram>\n</mxfile>\n",
+	"fileName": "cc-testecommerce-.CodeCanvas",
+	"fileURL": "github",
+	"diagramTemplateVersion": 0.2,
+	"filePath": "cc-testecommerce-.CodeCanvas",
+	"CodeCanvasIgnore": [
+		"# IMPORTANT",
+		"# - `.cursor` is NOT ignored by default.",
+		"# - `*.rules` is NOT ignored by default.",
+		"#os:macos",
+		".DS_Store",
+		"*._*",
+		".AppleDouble",
+		".LSOverride",
+		"*.Spotlight-V100/",
+		"*.Trashes/",
+		"*.fseventsd/",
+		"#os:windows",
+		"Thumbs.db",
+		"Thumbs.db:encryptable",
+		"ehthumbs.db",
+		"ehthumbs_vista.db",
+		"*.stackdump",
+		"desktop.ini",
+		"*$RECYCLE.BIN/",
+		"*.lnk",
+		"#os:linux",
+		"*~",
+		".directory",
+		"*.Trash-*/",
+		"*.fuse_hidden*",
+		"#editors",
+		".idea/",
+		".vscode/",
+		"*.swp",
+		"*.swo",
+		"*.swn",
+		"*.bak",
+		"*.tmp",
+		"#git",
+		"*.orig",
+		"*.rej",
+		"#node",
+		"*node_modules*",
+		"jspm_packages/",
+		"web_modules/",
+		"bower_components/",
+		"*.log",
+		"logs/",
+		"npm-debug.log*",
+		"yarn-debug.log*",
+		"yarn-error.log*",
+		"pnpm-debug.log*",
+		"lerna-debug.log*",
+		"report\\.[0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+\\.json",
+		"pids/",
+		"*.pid",
+		"*.seed",
+		"*.pid.lock",
+		".eslintcache",
+		".stylelintcache",
+		"*.rpt2_cache/",
+		"*.rts2_cache_cjs/",
+		"*.rts2_cache_es/",
+		"*.rts2_cache_umd/",
+		"*.cache/",
+		"*.parcel-cache/",
+		"*.turbo/",
+		"*.next/",
+		"*.nuxt/",
+		"*.svelte-kit/",
+		"*.vite/",
+		"*.storybook-out/",
+		"dist/",
+		"build/",
+		"out/",
+		"*.output/",
+		"tmp/",
+		"temp/",
+		"*.temp/",
+		"*.tsbuildinfo",
+		"build/Release/",
+		"*.pnp.*",
+		"#react-native",
+		"*.expo/",
+		"*.expo-shared/",
+		"*.watchmanconfig",
+		"ios/build/",
+		"ios/Pods/",
+		"android/app/build/",
+		"android/*.gradle/",
+		"*.keystore",
+		"*.jks",
+		"#python",
+		"__pycache__/",
+		"*.pyc",
+		"*.pyo",
+		"*.pyd",
+		"*.so",
+		".Python",
+		"pip-log.txt",
+		"pip-delete-this-directory.txt",
+		".coverage",
+		"htmlcov/",
+		"*.pytest_cache/",
+		"*.mypy_cache/",
+		"*.ruff_cache/",
+		"*.tox/",
+		"*.nox/",
+		"*.hypothesis/",
+		"*.pytype/",
+		"*.pyre/",
+		"*.venv/",
+		"venv/",
+		"ENV/",
+		"env/",
+		"build/",
+		"dist/",
+		"*.egg-info/",
+		"*.eggs/",
+		"pip-wheel-metadata/",
+		"#dotnet",
+		"*.suo",
+		"*.user",
+		"*.userosscache",
+		"*.sln.docstates",
+		"*.vs/",
+		"bin/",
+		"obj/",
+		"TestResults/",
+		"*.nupkg",
+		"*.snupkg",
+		"packages/",
+		"*.pdb",
+		"*.cache",
+		"#java",
+		"*.class",
+		"*.jar",
+		"*.war",
+		"*.ear",
+		"target/",
+		"*.gradle/",
+		"build/",
+		".classpath",
+		".project",
+		"*.settings/",
+		"hs_err_pid*",
+		"#go",
+		"*.exe",
+		"*.dll",
+		"*.so",
+		"*.dylib",
+		"*.test",
+		"*.out",
+		"#rust",
+		"target/",
+		"*.rs.bk",
+		"#ruby",
+		"*.gem",
+		"*.rbc",
+		"coverage/",
+		"tmp/",
+		"*.bundle/",
+		"vendor/bundle/",
+		"*.yardoc/",
+		"_yardoc/",
+		"pkg/",
+		".byebug_history",
+		"#php",
+		"vendor/",
+		".phpunit.result.cache",
+		".php-cs-fixer.cache",
+		".phpstan.result.cache",
+		"#general:build-artifacts",
+		"*.min.js",
+		"*.min.css",
+		"*.map",
+		"*public/assets/",
+		"#general:binary-assets",
+		"*.png",
+		"*.jpg",
+		"*.jpeg",
+		"*.gif",
+		"*.webp",
+		"*.ico",
+		"*.bmp",
+		"*.tiff",
+		"*.psd",
+		"*.ai",
+		"*.pdf",
+		"*.ttf",
+		"*.woff",
+		"*.woff2",
+		"*.eot",
+		"*.otf",
+		"*.svg",
+		"*.zip",
+		"*.tar",
+		"*.gz",
+		"*.tgz",
+		"*.7z"
+	],
+	"repoMetadata": {
+		"owner": "yahyahoush",
+		"submodules": []
+	},
+	"repoData": {
+		"app": {
+			"path": "app",
+			"fileName": "app",
+			"cellName": "app",
+			"cellId": "0077efbb-26d7-45a1-92be-9204088ebab5",
+			"visible": true,
+			"children": [
+				"app/page.tsx",
+				"app/actions.ts",
+				"app/components"
+			]
+		},
+		"app/actions.ts": {
+			"path": "app/actions.ts",
+			"fileName": "actions.ts",
+			"cellName": "actions.ts",
+			"cellId": "550a370e-b488-474d-a575-1e281cea4b25",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5",
+			"children": [
+				"app/actions.ts-simstep-a194bc54-11ae-4778-b79f-fa0b9b170287"
+			]
+		},
+		"app/components": {
+			"path": "app/components",
+			"fileName": "components",
+			"cellName": "components",
+			"cellId": "c16663fa-ffe2-4ffd-8c22-408e85064a9f",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5",
+			"children": [
+				"app/components/CartClient.tsx"
+			]
+		},
+		"app/components/CartClient.tsx": {
+			"path": "app/components/CartClient.tsx",
+			"fileName": "CartClient.tsx",
+			"cellName": "CartClient.tsx",
+			"cellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"visible": true,
+			"parentCellId": "c16663fa-ffe2-4ffd-8c22-408e85064a9f",
+			"children": [
+				"app/components/CartClient.tsx-simstep-4dec501c-7cb6-4b52-95b8-76335e1b3c6b",
+				"generated-edge-simstep-cdbc7c52-7163-432c-9975-cdc37cbffc71-b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+				"app/components/CartClient.tsx-simstep-6a960b7f-2864-4a8b-9218-45ab7b84b918",
+				"app/components/CartClient.tsx-simstep-f356269e-6270-4c98-9af9-9e92c81617a1",
+				"app/components/CartClient.tsx-simstep-183cdec9-1f52-4082-971a-a57d375d00e5",
+				"app/components/CartClient.tsx-simstep-01780247-5a0b-49da-9837-ba1220203264",
+				"generated-edge-simstep-68432812-be88-4088-9c4f-1a810d648568-58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+				"generated-edge-simstep-6469296e-dd27-459a-8c87-32c212c3ad74-db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+				"generated-edge-simstep-37508e07-d977-436e-a001-5911055e6576-1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+				"app/components/CartClient.tsx-simstep-cddcbf6b-e460-4b3d-895a-641f73325498",
+				"app/components/CartClient.tsx-simstep-6fb0eb0b-b977-453c-ba45-5b72f2824c6e",
+				"app/components/CartClient.tsx-simstep-57a570b5-8d10-44bb-862a-2670b06ace70",
+				"app/components/CartClient.tsx-simstep-0a616806-6b86-4ac5-862a-d299cf6319f5",
+				"app/components/CartClient.tsx-simstep-67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a",
+				"generated-edge-simstep-9962ec76-a38f-4c24-9843-9418e24e237a-7d27ab69-02a9-452e-81e9-263dba6353e8",
+				"generated-edge-simstep-3be6d2cb-4c3a-434d-a672-56d822da164d-e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+				"generated-edge-simstep-89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe-075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+				"generated-edge-simstep-6926000a-2c07-4250-884d-1a14b252ea28-db6522df-5f59-45dd-92f0-68dcdb32c636"
+			]
+		},
+		"app/page.tsx": {
+			"path": "app/page.tsx",
+			"fileName": "page.tsx",
+			"cellName": "page.tsx",
+			"cellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5",
+			"children": [
+				"app/page.tsx-simstep-b3bed192-826c-4188-956d-3ec966d86d94",
+				"app/page.tsx-simstep-13525ef4-0983-4348-80dd-83a3c26ab41d",
+				"generated-edge-simstep-42dea36f-7871-4f94-ae1a-2a08053bfdb6-c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+				"generated-edge-simstep-0fe032a8-e57f-4fa7-b81a-f8c3e9729e30-7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+				"app/page.tsx-simstep-817a109a-4e2e-441d-b406-ccbe8fb87f79",
+				"generated-edge-simstep-dcf59c8b-e763-4769-bdb5-01d0fe07bca3-8e736ede-cd81-4698-8aaf-ed0e19d696df"
+			]
+		},
+		"0077efbb-26d7-45a1-92be-9204088ebab5": {
+			"path": "0077efbb-26d7-45a1-92be-9204088ebab5",
+			"cellName": "app",
+			"cellId": "0077efbb-26d7-45a1-92be-9204088ebab5",
+			"visible": true
+		},
+		"3d7f740b-2cd4-4347-b906-705086b5a9b7": {
+			"path": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"cellName": "page.tsx",
+			"cellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"550a370e-b488-474d-a575-1e281cea4b25": {
+			"path": "550a370e-b488-474d-a575-1e281cea4b25",
+			"cellName": "actions.ts",
+			"cellId": "550a370e-b488-474d-a575-1e281cea4b25",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"c16663fa-ffe2-4ffd-8c22-408e85064a9f": {
+			"path": "c16663fa-ffe2-4ffd-8c22-408e85064a9f",
+			"cellName": "components",
+			"cellId": "c16663fa-ffe2-4ffd-8c22-408e85064a9f",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"0abbe4db-b34d-4ce1-925e-202bb2dffd29": {
+			"path": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"cellName": "CartClient.tsx",
+			"cellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"visible": true,
+			"parentCellId": "c16663fa-ffe2-4ffd-8c22-408e85064a9f"
+		},
+		"3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab": {
+			"path": "3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab",
+			"cellName": "Server-Side Rendering of HomePage",
+			"cellId": "3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab",
+			"visible": true,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7"
+		},
+		"app/page.tsx-simstep-b3bed192-826c-4188-956d-3ec966d86d94": {
+			"path": "app/page.tsx-simstep-b3bed192-826c-4188-956d-3ec966d86d94",
+			"fileName": "page.tsx",
+			"wiki": "The application starts by server-side rendering the `HomePage` component. This is an asynchronous React Server Component that fetches product data before rendering the page HTML.",
+			"cellName": "Server-Side Rendering of HomePage",
+			"cellId": "3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab",
+			"visible": true,
+			"startLine": 4,
+			"endLine": 16,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"parentPath": "app/page.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "b3bed192-826c-4188-956d-3ec966d86d94"
+				}
+			]
+		},
+		"c13be024-c50c-4f4d-9667-9389d4359c6e": {
+			"path": "c13be024-c50c-4f4d-9667-9389d4359c6e",
+			"cellName": "Execute `getProducts` on Server",
+			"cellId": "c13be024-c50c-4f4d-9667-9389d4359c6e",
+			"visible": true,
+			"parentCellId": "550a370e-b488-474d-a575-1e281cea4b25"
+		},
+		"app/actions.ts-simstep-a194bc54-11ae-4778-b79f-fa0b9b170287": {
+			"path": "app/actions.ts-simstep-a194bc54-11ae-4778-b79f-fa0b9b170287",
+			"fileName": "actions.ts",
+			"wiki": "The `getProducts` server action executes on the server. It accesses the hardcoded `PRODUCTS` array and returns its contents.",
+			"cellName": "Execute `getProducts` on Server",
+			"cellId": "c13be024-c50c-4f4d-9667-9389d4359c6e",
+			"visible": true,
+			"startLine": 35,
+			"endLine": 38,
+			"parentCellId": "550a370e-b488-474d-a575-1e281cea4b25",
+			"parentPath": "app/actions.ts",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "a194bc54-11ae-4778-b79f-fa0b9b170287"
+				}
+			]
+		},
+		"3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1": {
+			"path": "3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1",
+			"cellName": "Pass Products as Props to `CartClient`",
+			"cellId": "3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1",
+			"visible": true,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7"
+		},
+		"app/page.tsx-simstep-13525ef4-0983-4348-80dd-83a3c26ab41d": {
+			"path": "app/page.tsx-simstep-13525ef4-0983-4348-80dd-83a3c26ab41d",
+			"fileName": "page.tsx",
+			"wiki": "During server-side rendering, the `HomePage` component renders the `CartClient` component and passes the fetched `products` array to it as a prop.",
+			"cellName": "Pass Products as Props to `CartClient`",
+			"cellId": "3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1",
+			"visible": true,
+			"startLine": 13,
+			"endLine": 13,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"parentPath": "app/page.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "13525ef4-0983-4348-80dd-83a3c26ab41d"
+				}
+			]
+		},
+		"b9036e51-8986-4dc2-87ce-36cc2d607b53": {
+			"path": "b9036e51-8986-4dc2-87ce-36cc2d607b53",
+			"cellName": "Render Product List in `CartClient`",
+			"cellId": "b9036e51-8986-4dc2-87ce-36cc2d607b53",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-4dec501c-7cb6-4b52-95b8-76335e1b3c6b": {
+			"path": "app/components/CartClient.tsx-simstep-4dec501c-7cb6-4b52-95b8-76335e1b3c6b",
+			"fileName": "CartClient.tsx",
+			"wiki": "The `CartClient` component, now running in the browser, receives the `products` prop. It maps over this array to render an HTML list of products, displaying each item's name, description, and price.",
+			"cellName": "Render Product List in `CartClient`",
+			"cellId": "b9036e51-8986-4dc2-87ce-36cc2d607b53",
+			"visible": true,
+			"startLine": 57,
+			"endLine": 68,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "4dec501c-7cb6-4b52-95b8-76335e1b3c6b"
+				}
+			]
+		},
+		"c7bb45aa-e517-444a-8b5e-d03f27aac52d": {
+			"path": "c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+			"cellName": "Invoke `getProducts`\nServer Action",
+			"cellId": "c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"generated-edge-simstep-42dea36f-7871-4f94-ae1a-2a08053bfdb6-c7bb45aa-e517-444a-8b5e-d03f27aac52d": {
+			"path": "generated-edge-simstep-42dea36f-7871-4f94-ae1a-2a08053bfdb6-c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+			"fileName": "page.tsx",
+			"cellName": "Invoke `getProducts` Server Action",
+			"cellId": "c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+			"visible": true,
+			"startLine": 5,
+			"endLine": 5,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"parentPath": "app/page.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "42dea36f-7871-4f94-ae1a-2a08053bfdb6"
+				}
+			]
+		},
+		"7dee1b22-51c1-4ab9-bf5a-fb2d782329a6": {
+			"path": "7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+			"cellName": "Return Products\nto Page\nComponent",
+			"cellId": "7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"generated-edge-simstep-0fe032a8-e57f-4fa7-b81a-f8c3e9729e30-7dee1b22-51c1-4ab9-bf5a-fb2d782329a6": {
+			"path": "generated-edge-simstep-0fe032a8-e57f-4fa7-b81a-f8c3e9729e30-7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+			"fileName": "page.tsx",
+			"cellName": "Return Products to Page Component",
+			"cellId": "7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+			"visible": true,
+			"startLine": 5,
+			"endLine": 5,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"parentPath": "app/page.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "0fe032a8-e57f-4fa7-b81a-f8c3e9729e30"
+				}
+			]
+		},
+		"b8eac258-6ad8-4d45-9e92-e0104a90b4c3": {
+			"path": "b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+			"cellName": "Transmit Props\nto `CartClient`",
+			"cellId": "b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"generated-edge-simstep-cdbc7c52-7163-432c-9975-cdc37cbffc71-b8eac258-6ad8-4d45-9e92-e0104a90b4c3": {
+			"path": "generated-edge-simstep-cdbc7c52-7163-432c-9975-cdc37cbffc71-b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+			"fileName": "CartClient.tsx",
+			"cellName": "Transmit Props to `CartClient`",
+			"cellId": "b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+			"visible": true,
+			"startLine": 13,
+			"endLine": 13,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How product catalog display works",
+					"simStepId": "cdbc7c52-7163-432c-9975-cdc37cbffc71"
+				}
+			]
+		},
+		"5bbcf44c-740e-4b97-95c4-eddc7c8a964d": {
+			"path": "5bbcf44c-740e-4b97-95c4-eddc7c8a964d",
+			"cellName": "User Clicks 'Add to cart'",
+			"cellId": "5bbcf44c-740e-4b97-95c4-eddc7c8a964d",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-6a960b7f-2864-4a8b-9218-45ab7b84b918": {
+			"path": "app/components/CartClient.tsx-simstep-6a960b7f-2864-4a8b-9218-45ab7b84b918",
+			"fileName": "CartClient.tsx",
+			"wiki": "The user clicks the 'Add to cart' button associated with a specific product in the product list.",
+			"cellName": "User Clicks 'Add to cart'",
+			"cellId": "5bbcf44c-740e-4b97-95c4-eddc7c8a964d",
+			"visible": true,
+			"startLine": 64,
+			"endLine": 64,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "6a960b7f-2864-4a8b-9218-45ab7b84b918"
+				}
+			]
+		},
+		"f9392483-98e0-4d02-b255-a12493a1df65": {
+			"path": "f9392483-98e0-4d02-b255-a12493a1df65",
+			"cellName": "Execute 'addToCart' Logic",
+			"cellId": "f9392483-98e0-4d02-b255-a12493a1df65",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-f356269e-6270-4c98-9af9-9e92c81617a1": {
+			"path": "app/components/CartClient.tsx-simstep-f356269e-6270-4c98-9af9-9e92c81617a1",
+			"fileName": "CartClient.tsx",
+			"wiki": "The `addToCart` function is executed. It calls `setCart` with a function that receives the previous state (`prev`). It checks if the product already exists. If not, it returns a new array with the new product added (quantity 1). If it exists, it maps over the array and returns a new array with the quantity of the existing product incremented.",
+			"cellName": "Execute 'addToCart' Logic",
+			"cellId": "f9392483-98e0-4d02-b255-a12493a1df65",
+			"visible": true,
+			"startLine": 25,
+			"endLine": 37,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "f356269e-6270-4c98-9af9-9e92c81617a1"
+				}
+			]
+		},
+		"228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a": {
+			"path": "228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a",
+			"cellName": "React Re-renders Component",
+			"cellId": "228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-183cdec9-1f52-4082-971a-a57d375d00e5": {
+			"path": "app/components/CartClient.tsx-simstep-183cdec9-1f52-4082-971a-a57d375d00e5",
+			"fileName": "CartClient.tsx",
+			"wiki": "React detects a change in the 'cart' state variable. This triggers a re-render of the `CartClient` component to reflect the updated data in the UI.",
+			"cellName": "React Re-renders Component",
+			"cellId": "228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a",
+			"visible": true,
+			"startLine": 14,
+			"endLine": 14,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "183cdec9-1f52-4082-971a-a57d375d00e5"
+				}
+			]
+		},
+		"79014061-99e0-4796-bf4d-ad384be860b4": {
+			"path": "79014061-99e0-4796-bf4d-ad384be860b4",
+			"cellName": "UI Displays Updated Cart",
+			"cellId": "79014061-99e0-4796-bf4d-ad384be860b4",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-01780247-5a0b-49da-9837-ba1220203264": {
+			"path": "app/components/CartClient.tsx-simstep-01780247-5a0b-49da-9837-ba1220203264",
+			"fileName": "CartClient.tsx",
+			"wiki": "The component's returned JSX is rendered to the DOM. The user now sees the newly added item (or the updated quantity of an existing item) in the cart section of the page.",
+			"cellName": "UI Displays Updated Cart",
+			"cellId": "79014061-99e0-4796-bf4d-ad384be860b4",
+			"visible": true,
+			"startLine": 71,
+			"endLine": 111,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "01780247-5a0b-49da-9837-ba1220203264"
+				}
+			]
+		},
+		"58c42def-fd4c-4d64-bcb1-d041dff8ebb5": {
+			"path": "58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+			"cellName": "Trigger addToCart\nFunction",
+			"cellId": "58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-68432812-be88-4088-9c4f-1a810d648568-58c42def-fd4c-4d64-bcb1-d041dff8ebb5": {
+			"path": "generated-edge-simstep-68432812-be88-4088-9c4f-1a810d648568-58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+			"fileName": "CartClient.tsx",
+			"cellName": "Trigger addToCart Function",
+			"cellId": "58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+			"visible": true,
+			"startLine": 64,
+			"endLine": 64,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "68432812-be88-4088-9c4f-1a810d648568"
+				}
+			]
+		},
+		"db592b4a-e2bd-475c-afd4-cfe94b190a5e": {
+			"path": "db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+			"cellName": "Update Cart\nState",
+			"cellId": "db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-6469296e-dd27-459a-8c87-32c212c3ad74-db592b4a-e2bd-475c-afd4-cfe94b190a5e": {
+			"path": "generated-edge-simstep-6469296e-dd27-459a-8c87-32c212c3ad74-db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+			"fileName": "CartClient.tsx",
+			"cellName": "Update Cart State",
+			"cellId": "db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+			"visible": true,
+			"startLine": 26,
+			"endLine": 26,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "6469296e-dd27-459a-8c87-32c212c3ad74"
+				}
+			]
+		},
+		"1c3757c3-68cb-43ed-96e6-f0df07d963fc": {
+			"path": "1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+			"cellName": "Pass Updated\nCart Data\nto UI",
+			"cellId": "1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-37508e07-d977-436e-a001-5911055e6576-1c3757c3-68cb-43ed-96e6-f0df07d963fc": {
+			"path": "generated-edge-simstep-37508e07-d977-436e-a001-5911055e6576-1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+			"fileName": "CartClient.tsx",
+			"cellName": "Pass Updated Cart Data to UI",
+			"cellId": "1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+			"visible": true,
+			"startLine": 78,
+			"endLine": 78,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How adding items to the cart works",
+					"simStepId": "37508e07-d977-436e-a001-5911055e6576"
+				}
+			]
+		},
+		"06e2c96a-b43f-4d58-9793-a2175688e005": {
+			"path": "06e2c96a-b43f-4d58-9793-a2175688e005",
+			"cellName": "Initial Page Load",
+			"cellId": "06e2c96a-b43f-4d58-9793-a2175688e005",
+			"visible": true,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7"
+		},
+		"app/page.tsx-simstep-817a109a-4e2e-441d-b406-ccbe8fb87f79": {
+			"path": "app/page.tsx-simstep-817a109a-4e2e-441d-b406-ccbe8fb87f79",
+			"fileName": "page.tsx",
+			"wiki": "The application's home page is loaded. This is a server-side component that fetches the list of available products before rendering.",
+			"cellName": "Initial Page Load",
+			"cellId": "06e2c96a-b43f-4d58-9793-a2175688e005",
+			"visible": true,
+			"startLine": 4,
+			"endLine": 6,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"parentPath": "app/page.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "817a109a-4e2e-441d-b406-ccbe8fb87f79"
+				}
+			]
+		},
+		"54061d33-44d9-49eb-a492-976ad13c70ad": {
+			"path": "54061d33-44d9-49eb-a492-976ad13c70ad",
+			"cellName": "Initialize Cart State",
+			"cellId": "54061d33-44d9-49eb-a492-976ad13c70ad",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-cddcbf6b-e460-4b3d-895a-641f73325498": {
+			"path": "app/components/CartClient.tsx-simstep-cddcbf6b-e460-4b3d-895a-641f73325498",
+			"fileName": "CartClient.tsx",
+			"wiki": "The `CartClient` component initializes its state. The `cart` state, which holds the items the user has selected, is set to an empty array.",
+			"cellName": "Initialize Cart State",
+			"cellId": "54061d33-44d9-49eb-a492-976ad13c70ad",
+			"visible": true,
+			"startLine": 14,
+			"endLine": 14,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "cddcbf6b-e460-4b3d-895a-641f73325498"
+				}
+			]
+		},
+		"7e1f09eb-f5d5-4bf8-b620-6624578e1b61": {
+			"path": "7e1f09eb-f5d5-4bf8-b620-6624578e1b61",
+			"cellName": "Render Empty Cart View",
+			"cellId": "7e1f09eb-f5d5-4bf8-b620-6624578e1b61",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-6fb0eb0b-b977-453c-ba45-5b72f2824c6e": {
+			"path": "app/components/CartClient.tsx-simstep-6fb0eb0b-b977-453c-ba45-5b72f2824c6e",
+			"fileName": "CartClient.tsx",
+			"wiki": "The component checks the cart's length. Since it's zero, it displays the message 'Your cart is empty.'",
+			"cellName": "Render Empty Cart View",
+			"cellId": "7e1f09eb-f5d5-4bf8-b620-6624578e1b61",
+			"visible": true,
+			"startLine": 73,
+			"endLine": 75,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "6fb0eb0b-b977-453c-ba45-5b72f2824c6e"
+				}
+			]
+		},
+		"d9a5ec79-88cf-402c-9689-22baae77f62b": {
+			"path": "d9a5ec79-88cf-402c-9689-22baae77f62b",
+			"cellName": "Update Cart State",
+			"cellId": "d9a5ec79-88cf-402c-9689-22baae77f62b",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-57a570b5-8d10-44bb-862a-2670b06ace70": {
+			"path": "app/components/CartClient.tsx-simstep-57a570b5-8d10-44bb-862a-2670b06ace70",
+			"fileName": "CartClient.tsx",
+			"wiki": "The `addToCart` function is executed. It checks if the product already exists. Since it's the first time, it adds the product to the cart with a quantity of 1 and updates the state via `setCart`, triggering a re-render.",
+			"cellName": "Update Cart State",
+			"cellId": "d9a5ec79-88cf-402c-9689-22baae77f62b",
+			"visible": true,
+			"startLine": 25,
+			"endLine": 37,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "57a570b5-8d10-44bb-862a-2670b06ace70"
+				}
+			]
+		},
+		"d768d12c-16d0-4c35-af77-c29f217b9fbf": {
+			"path": "d768d12c-16d0-4c35-af77-c29f217b9fbf",
+			"cellName": "Recalculate Cart Total",
+			"cellId": "d768d12c-16d0-4c35-af77-c29f217b9fbf",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-0a616806-6b86-4ac5-862a-d299cf6319f5": {
+			"path": "app/components/CartClient.tsx-simstep-0a616806-6b86-4ac5-862a-d299cf6319f5",
+			"fileName": "CartClient.tsx",
+			"wiki": "The `total` is recalculated using `useMemo`. Because its dependency `cart` has changed, the `reduce` function runs over the new cart items to compute the new total.",
+			"cellName": "Recalculate Cart Total",
+			"cellId": "d768d12c-16d0-4c35-af77-c29f217b9fbf",
+			"visible": true,
+			"startLine": 16,
+			"endLine": 23,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "0a616806-6b86-4ac5-862a-d299cf6319f5"
+				}
+			]
+		},
+		"a3bdacbc-06a8-4564-9450-3d3b03feea24": {
+			"path": "a3bdacbc-06a8-4564-9450-3d3b03feea24",
+			"cellName": "Render Populated Cart View",
+			"cellId": "a3bdacbc-06a8-4564-9450-3d3b03feea24",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"app/components/CartClient.tsx-simstep-67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a": {
+			"path": "app/components/CartClient.tsx-simstep-67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a",
+			"fileName": "CartClient.tsx",
+			"wiki": "The component re-renders. The `cart.length` is now greater than zero, so it maps over the `cart` items, displaying each item's name, quantity, and subtotal. The final total price is also displayed.",
+			"cellName": "Render Populated Cart View",
+			"cellId": "a3bdacbc-06a8-4564-9450-3d3b03feea24",
+			"visible": true,
+			"startLine": 76,
+			"endLine": 109,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a"
+				}
+			]
+		},
+		"8e736ede-cd81-4698-8aaf-ed0e19d696df": {
+			"path": "8e736ede-cd81-4698-8aaf-ed0e19d696df",
+			"cellName": "Pass Products\nto Client\nComponent",
+			"cellId": "8e736ede-cd81-4698-8aaf-ed0e19d696df",
+			"visible": true,
+			"parentCellId": "0077efbb-26d7-45a1-92be-9204088ebab5"
+		},
+		"generated-edge-simstep-dcf59c8b-e763-4769-bdb5-01d0fe07bca3-8e736ede-cd81-4698-8aaf-ed0e19d696df": {
+			"path": "generated-edge-simstep-dcf59c8b-e763-4769-bdb5-01d0fe07bca3-8e736ede-cd81-4698-8aaf-ed0e19d696df",
+			"fileName": "page.tsx",
+			"cellName": "Pass Products to Client Component",
+			"cellId": "8e736ede-cd81-4698-8aaf-ed0e19d696df",
+			"visible": true,
+			"startLine": 13,
+			"endLine": 13,
+			"parentCellId": "3d7f740b-2cd4-4347-b906-705086b5a9b7",
+			"parentPath": "app/page.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "dcf59c8b-e763-4769-bdb5-01d0fe07bca3"
+				}
+			]
+		},
+		"7d27ab69-02a9-452e-81e9-263dba6353e8": {
+			"path": "7d27ab69-02a9-452e-81e9-263dba6353e8",
+			"cellName": "Provide Cart\nState for\nRendering",
+			"cellId": "7d27ab69-02a9-452e-81e9-263dba6353e8",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-9962ec76-a38f-4c24-9843-9418e24e237a-7d27ab69-02a9-452e-81e9-263dba6353e8": {
+			"path": "generated-edge-simstep-9962ec76-a38f-4c24-9843-9418e24e237a-7d27ab69-02a9-452e-81e9-263dba6353e8",
+			"fileName": "CartClient.tsx",
+			"cellName": "Provide Cart State for Rendering",
+			"cellId": "7d27ab69-02a9-452e-81e9-263dba6353e8",
+			"visible": true,
+			"startLine": 73,
+			"endLine": 73,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "9962ec76-a38f-4c24-9843-9418e24e237a"
+				}
+			]
+		},
+		"e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28": {
+			"path": "e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+			"cellName": "User Action:\nAdd Item",
+			"cellId": "e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-3be6d2cb-4c3a-434d-a672-56d822da164d-e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28": {
+			"path": "generated-edge-simstep-3be6d2cb-4c3a-434d-a672-56d822da164d-e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+			"fileName": "CartClient.tsx",
+			"cellName": "User Action: Add Item",
+			"cellId": "e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+			"visible": true,
+			"startLine": 64,
+			"endLine": 64,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "3be6d2cb-4c3a-434d-a672-56d822da164d"
+				}
+			]
+		},
+		"075b3ac0-6c05-4f2e-8a34-b8e93df2b966": {
+			"path": "075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+			"cellName": "Propagate State\nChange",
+			"cellId": "075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe-075b3ac0-6c05-4f2e-8a34-b8e93df2b966": {
+			"path": "generated-edge-simstep-89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe-075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+			"fileName": "CartClient.tsx",
+			"cellName": "Propagate State Change",
+			"cellId": "075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+			"visible": true,
+			"startLine": 14,
+			"endLine": 14,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe"
+				}
+			]
+		},
+		"db6522df-5f59-45dd-92f0-68dcdb32c636": {
+			"path": "db6522df-5f59-45dd-92f0-68dcdb32c636",
+			"cellName": "Provide Updated\nData for\nRendering",
+			"cellId": "db6522df-5f59-45dd-92f0-68dcdb32c636",
+			"visible": true,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29"
+		},
+		"generated-edge-simstep-6926000a-2c07-4250-884d-1a14b252ea28-db6522df-5f59-45dd-92f0-68dcdb32c636": {
+			"path": "generated-edge-simstep-6926000a-2c07-4250-884d-1a14b252ea28-db6522df-5f59-45dd-92f0-68dcdb32c636",
+			"fileName": "CartClient.tsx",
+			"cellName": "Provide Updated Data for Rendering",
+			"cellId": "db6522df-5f59-45dd-92f0-68dcdb32c636",
+			"visible": true,
+			"startLine": 78,
+			"endLine": 105,
+			"parentCellId": "0abbe4db-b34d-4ce1-925e-202bb2dffd29",
+			"parentPath": "app/components/CartClient.tsx",
+			"simSteps": [
+				{
+					"simulationKey": "How viewing the shopping cart works",
+					"simStepId": "6926000a-2c07-4250-884d-1a14b252ea28"
+				}
+			]
+		}
+	},
+	"simulations": {
+		"How product catalog display works": {
+			"name": "How product catalog display works",
+			"simSteps": [
+				{
+					"simStepId": "b3bed192-826c-4188-956d-3ec966d86d94",
+					"diagramNodeId": "3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab",
+					"simStepLabel": "Server-Side Rendering of HomePage",
+					"simStepDescription": "The application starts by server-side rendering the `HomePage` component. This is an asynchronous React Server Component that fetches product data before rendering the page HTML.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/page.tsx",
+						"startLine": "4",
+						"endLine": "16",
+						"relevantVariables": [
+							"HomePage",
+							"getProducts"
+						]
+					},
+					"inputDataExample": "{}",
+					"outputDataExample": "{\"productsPromise\": \"<Promise>\"}"
+				},
+				{
+					"simStepId": "42dea36f-7871-4f94-ae1a-2a08053bfdb6",
+					"diagramNodeId": "c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+					"simStepLabel": "Invoke `getProducts` Server Action",
+					"simStepDescription": "The `HomePage` component calls the `getProducts` server action to retrieve the list of available products. This call happens on the server during the rendering process.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/page.tsx",
+						"startLine": "5",
+						"endLine": "5",
+						"relevantVariables": [
+							"products",
+							"getProducts"
+						]
+					},
+					"inputDataExample": "{}",
+					"outputDataExample": "{}"
+				},
+				{
+					"simStepId": "a194bc54-11ae-4778-b79f-fa0b9b170287",
+					"diagramNodeId": "c13be024-c50c-4f4d-9667-9389d4359c6e",
+					"simStepLabel": "Execute `getProducts` on Server",
+					"simStepDescription": "The `getProducts` server action executes on the server. It accesses the hardcoded `PRODUCTS` array and returns its contents.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/actions.ts",
+						"startLine": "35",
+						"endLine": "38",
+						"relevantVariables": [
+							"getProducts",
+							"PRODUCTS"
+						]
+					},
+					"inputDataExample": "{}",
+					"outputDataExample": "[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"Rugged everyday carry with reinforced handles.\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"Hardcover notebook with dotted pages.\",\"price\":14},{\"id\":\"p3\",\"name\":\"Ceramic Mug\",\"description\":\"Hand-glazed mug for slow mornings.\",\"price\":18},{\"id\":\"p4\",\"name\":\"Desk Lamp\",\"description\":\"Warm LED lamp with adjustable neck.\",\"price\":42}]"
+				},
+				{
+					"simStepId": "0fe032a8-e57f-4fa7-b81a-f8c3e9729e30",
+					"diagramNodeId": "7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+					"simStepLabel": "Return Products to Page Component",
+					"simStepDescription": "The `getProducts` function returns the array of products. The `await` keyword in `HomePage` resolves the promise, and the product data is assigned to the `products` variable.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/page.tsx",
+						"startLine": "5",
+						"endLine": "5",
+						"relevantVariables": [
+							"products"
+						]
+					},
+					"inputDataExample": "[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"Rugged everyday carry with reinforced handles.\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"Hardcover notebook with dotted pages.\",\"price\":14},{\"id\":\"p3\",\"name\":\"Ceramic Mug\",\"description\":\"Hand-glazed mug for slow mornings.\",\"price\":18},{\"id\":\"p4\",\"name\":\"Desk Lamp\",\"description\":\"Warm LED lamp with adjustable neck.\",\"price\":42}]",
+					"outputDataExample": "[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"Rugged everyday carry with reinforced handles.\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"Hardcover notebook with dotted pages.\",\"price\":14},{\"id\":\"p3\",\"name\":\"Ceramic Mug\",\"description\":\"Hand-glazed mug for slow mornings.\",\"price\":18},{\"id\":\"p4\",\"name\":\"Desk Lamp\",\"description\":\"Warm LED lamp with adjustable neck.\",\"price\":42}]"
+				},
+				{
+					"simStepId": "13525ef4-0983-4348-80dd-83a3c26ab41d",
+					"diagramNodeId": "3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1",
+					"simStepLabel": "Pass Products as Props to `CartClient`",
+					"simStepDescription": "During server-side rendering, the `HomePage` component renders the `CartClient` component and passes the fetched `products` array to it as a prop.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/page.tsx",
+						"startLine": "13",
+						"endLine": "13",
+						"relevantVariables": [
+							"CartClient",
+							"products"
+						]
+					},
+					"inputDataExample": "{\"products\":[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"...\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"...\",\"price\":14}]}",
+					"outputDataExample": "{\"componentProps\":{\"products\":[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"...\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"...\",\"price\":14}]}}"
+				},
+				{
+					"simStepId": "cdbc7c52-7163-432c-9975-cdc37cbffc71",
+					"diagramNodeId": "b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+					"simStepLabel": "Transmit Props to `CartClient`",
+					"simStepDescription": "The `products` array is transmitted as a prop from the server-rendered `HomePage` to the `CartClient` component. This data is serialized and sent to the browser along with the component's HTML to be hydrated.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "13",
+						"endLine": "13",
+						"relevantVariables": [
+							"products"
+						]
+					},
+					"inputDataExample": "{\"products\":[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"Rugged everyday carry with reinforced handles.\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"Hardcover notebook with dotted pages.\",\"price\":14},{\"id\":\"p3\",\"name\":\"Ceramic Mug\",\"description\":\"Hand-glazed mug for slow mornings.\",\"price\":18},{\"id\":\"p4\",\"name\":\"Desk Lamp\",\"description\":\"Warm LED lamp with adjustable neck.\",\"price\":42}]}",
+					"outputDataExample": "{\"products\":[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"Rugged everyday carry with reinforced handles.\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"Hardcover notebook with dotted pages.\",\"price\":14},{\"id\":\"p3\",\"name\":\"Ceramic Mug\",\"description\":\"Hand-glazed mug for slow mornings.\",\"price\":18},{\"id\":\"p4\",\"name\":\"Desk Lamp\",\"description\":\"Warm LED lamp with adjustable neck.\",\"price\":42}]}"
+				},
+				{
+					"simStepId": "4dec501c-7cb6-4b52-95b8-76335e1b3c6b",
+					"diagramNodeId": "b9036e51-8986-4dc2-87ce-36cc2d607b53",
+					"simStepLabel": "Render Product List in `CartClient`",
+					"simStepDescription": "The `CartClient` component, now running in the browser, receives the `products` prop. It maps over this array to render an HTML list of products, displaying each item's name, description, and price.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "57",
+						"endLine": "68",
+						"relevantVariables": [
+							"products",
+							"product"
+						]
+					},
+					"inputDataExample": "{\"products\":[{\"id\":\"p1\",\"name\":\"Canvas Tote\",\"description\":\"Rugged everyday carry with reinforced handles.\",\"price\":24},{\"id\":\"p2\",\"name\":\"Studio Notebook\",\"description\":\"Hardcover notebook with dotted pages.\",\"price\":14},{\"id\":\"p3\",\"name\":\"Ceramic Mug\",\"description\":\"Hand-glazed mug for slow mornings.\",\"price\":18},{\"id\":\"p4\",\"name\":\"Desk Lamp\",\"description\":\"Warm LED lamp with adjustable neck.\",\"price\":42}]}",
+					"outputDataExample": "{\"html\":\"<ul><li key='p1'><h3>Canvas Tote</h3>...</li>...</ul>\"}"
+				}
+			],
+			"description": "<ul><li>The application displays a list of available products for users to browse</li><li>This is the primary function of the storefront</li><li>- Product data is defined in a static array on the server</li><li>- A Next</li><li>js server action (<code>getProducts</code>) retrieves this data</li><li>- The main page (<code>HomePage</code>) fetches the products during server-side rendering for a fast initial load</li><li>- The product list, including name, description, and price, is then passed to the <code>CartClient</code> component for display</li></ul>",
+			"simulationNodesAndEdges": {
+				"3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab": {
+					"simStepIds": [
+						"b3bed192-826c-4188-956d-3ec966d86d94"
+					]
+				},
+				"c13be024-c50c-4f4d-9667-9389d4359c6e": {
+					"simStepIds": [
+						"a194bc54-11ae-4778-b79f-fa0b9b170287"
+					]
+				},
+				"3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1": {
+					"simStepIds": [
+						"13525ef4-0983-4348-80dd-83a3c26ab41d"
+					]
+				},
+				"b9036e51-8986-4dc2-87ce-36cc2d607b53": {
+					"simStepIds": [
+						"4dec501c-7cb6-4b52-95b8-76335e1b3c6b"
+					]
+				},
+				"c7bb45aa-e517-444a-8b5e-d03f27aac52d": {
+					"simStepIds": [
+						"42dea36f-7871-4f94-ae1a-2a08053bfdb6"
+					]
+				},
+				"7dee1b22-51c1-4ab9-bf5a-fb2d782329a6": {
+					"simStepIds": [
+						"0fe032a8-e57f-4fa7-b81a-f8c3e9729e30"
+					]
+				},
+				"b8eac258-6ad8-4d45-9e92-e0104a90b4c3": {
+					"simStepIds": [
+						"cdbc7c52-7163-432c-9975-cdc37cbffc71"
+					]
+				}
+			},
+			"isAIGenerated": true,
+			"keywords": "getProducts, Product, HomePage, await, products, CartClient",
+			"generationPrompt": "How product catalog display works",
+			"generationKeywords": "getProducts, Product, HomePage, await, products, CartClient",
+			"meta": {
+				"containerCoverage": {
+					"perContainerTotals": {
+						"frontend": {
+							"promptFileCount": 3,
+							"promptTokenCount": 1116,
+							"suggestedFileCount": 5
+						},
+						"server": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						},
+						"drawio": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						},
+						"shared": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 3
+						},
+						"unknown": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						}
+					},
+					"missingContainers": [],
+					"addedFiles": []
+				}
+			}
+		},
+		"How adding items to the cart works": {
+			"name": "How adding items to the cart works",
+			"simSteps": [
+				{
+					"simStepId": "6a960b7f-2864-4a8b-9218-45ab7b84b918",
+					"diagramNodeId": "5bbcf44c-740e-4b97-95c4-eddc7c8a964d",
+					"simStepLabel": "User Clicks 'Add to cart'",
+					"simStepDescription": "The user clicks the 'Add to cart' button associated with a specific product in the product list.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "64",
+						"endLine": "64",
+						"relevantVariables": [
+							"product",
+							"addToCart",
+							"onClick"
+						]
+					},
+					"inputDataExample": "{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}}",
+					"outputDataExample": "{\"event\": \"click\", \"target\": \"addToCart\", \"data\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}}"
+				},
+				{
+					"simStepId": "68432812-be88-4088-9c4f-1a810d648568",
+					"diagramNodeId": "58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+					"simStepLabel": "Trigger addToCart Function",
+					"simStepDescription": "The button's onClick event handler invokes the `addToCart` function, passing the selected product object as an argument.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "64",
+						"endLine": "64",
+						"relevantVariables": [
+							"addToCart"
+						]
+					},
+					"inputDataExample": "{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}}",
+					"outputDataExample": "{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}}"
+				},
+				{
+					"simStepId": "f356269e-6270-4c98-9af9-9e92c81617a1",
+					"diagramNodeId": "f9392483-98e0-4d02-b255-a12493a1df65",
+					"simStepLabel": "Execute 'addToCart' Logic",
+					"simStepDescription": "The `addToCart` function is executed. It calls `setCart` with a function that receives the previous state (`prev`). It checks if the product already exists. If not, it returns a new array with the new product added (quantity 1). If it exists, it maps over the array and returns a new array with the quantity of the existing product incremented.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "25",
+						"endLine": "37",
+						"relevantVariables": [
+							"addToCart",
+							"setCart",
+							"prev",
+							"existing"
+						]
+					},
+					"inputDataExample": "{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"previousCartState\": []}",
+					"outputDataExample": "{\"newCartState\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}"
+				},
+				{
+					"simStepId": "6469296e-dd27-459a-8c87-32c212c3ad74",
+					"diagramNodeId": "db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+					"simStepLabel": "Update Cart State",
+					"simStepDescription": "The `setCart` function, provided by the `useState` hook, receives the new cart array and queues a state update for the `CartClient` component.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "26",
+						"endLine": "26",
+						"relevantVariables": [
+							"setCart"
+						]
+					},
+					"inputDataExample": "{\"newCartState\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}",
+					"outputDataExample": "{\"newCartState\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}"
+				},
+				{
+					"simStepId": "183cdec9-1f52-4082-971a-a57d375d00e5",
+					"diagramNodeId": "228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a",
+					"simStepLabel": "React Re-renders Component",
+					"simStepDescription": "React detects a change in the 'cart' state variable. This triggers a re-render of the `CartClient` component to reflect the updated data in the UI.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "14",
+						"endLine": "14",
+						"relevantVariables": [
+							"cart",
+							"setCart",
+							"useState"
+						]
+					},
+					"inputDataExample": "{\"newState\": {\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}}",
+					"outputDataExample": "{\"renderedJSX\": \"...\"}"
+				},
+				{
+					"simStepId": "37508e07-d977-436e-a001-5911055e6576",
+					"diagramNodeId": "1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+					"simStepLabel": "Pass Updated Cart Data to UI",
+					"simStepDescription": "During the re-render, the updated `cart` array is mapped over to generate the list of items to be displayed in the cart section.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "78",
+						"endLine": "78",
+						"relevantVariables": [
+							"cart",
+							"item"
+						]
+					},
+					"inputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}",
+					"outputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}"
+				},
+				{
+					"simStepId": "01780247-5a0b-49da-9837-ba1220203264",
+					"diagramNodeId": "79014061-99e0-4796-bf4d-ad384be860b4",
+					"simStepLabel": "UI Displays Updated Cart",
+					"simStepDescription": "The component's returned JSX is rendered to the DOM. The user now sees the newly added item (or the updated quantity of an existing item) in the cart section of the page.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "71",
+						"endLine": "111",
+						"relevantVariables": [
+							"cart"
+						]
+					},
+					"inputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Laptop\", \"description\": \"A powerful laptop for all your needs.\", \"price\": 1200}, \"qty\": 1}]}",
+					"outputDataExample": "null"
+				}
+			],
+			"description": "<ul><li>This feature allows users to select products they wish to purchase</li><li>- Each product in the catalog has an Add to cart button</li><li>- Clicking the button triggers the <code>addToCart</code> function</li><li>- If the product is not already in the cart, it's added with a quantity of 1</li><li>- If the product is already in the cart, its quantity is incremented</li><li>- The cart's state is managed on the client side using React's <code>useState</code> hook</li></ul>",
+			"simulationNodesAndEdges": {
+				"5bbcf44c-740e-4b97-95c4-eddc7c8a964d": {
+					"simStepIds": [
+						"6a960b7f-2864-4a8b-9218-45ab7b84b918"
+					]
+				},
+				"f9392483-98e0-4d02-b255-a12493a1df65": {
+					"simStepIds": [
+						"f356269e-6270-4c98-9af9-9e92c81617a1"
+					]
+				},
+				"228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a": {
+					"simStepIds": [
+						"183cdec9-1f52-4082-971a-a57d375d00e5"
+					]
+				},
+				"79014061-99e0-4796-bf4d-ad384be860b4": {
+					"simStepIds": [
+						"01780247-5a0b-49da-9837-ba1220203264"
+					]
+				},
+				"58c42def-fd4c-4d64-bcb1-d041dff8ebb5": {
+					"simStepIds": [
+						"68432812-be88-4088-9c4f-1a810d648568"
+					]
+				},
+				"db592b4a-e2bd-475c-afd4-cfe94b190a5e": {
+					"simStepIds": [
+						"6469296e-dd27-459a-8c87-32c212c3ad74"
+					]
+				},
+				"1c3757c3-68cb-43ed-96e6-f0df07d963fc": {
+					"simStepIds": [
+						"37508e07-d977-436e-a001-5911055e6576"
+					]
+				}
+			},
+			"isAIGenerated": true,
+			"keywords": "addToCart, setCart, useState, CartItem, onClick, Add to cart",
+			"generationPrompt": "How adding items to the cart works",
+			"generationKeywords": "addToCart, setCart, useState, CartItem, onClick, Add to cart",
+			"meta": {
+				"containerCoverage": {
+					"perContainerTotals": {
+						"frontend": {
+							"promptFileCount": 1,
+							"promptTokenCount": 714,
+							"suggestedFileCount": 5
+						},
+						"server": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						},
+						"drawio": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						},
+						"shared": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 3
+						},
+						"unknown": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						}
+					},
+					"missingContainers": [],
+					"addedFiles": []
+				}
+			}
+		},
+		"How viewing the shopping cart works": {
+			"name": "How viewing the shopping cart works",
+			"simSteps": [
+				{
+					"simStepId": "817a109a-4e2e-441d-b406-ccbe8fb87f79",
+					"diagramNodeId": "06e2c96a-b43f-4d58-9793-a2175688e005",
+					"simStepLabel": "Initial Page Load",
+					"simStepDescription": "The application's home page is loaded. This is a server-side component that fetches the list of available products before rendering.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/page.tsx",
+						"startLine": "4",
+						"endLine": "6",
+						"relevantVariables": [
+							"HomePage",
+							"getProducts",
+							"products"
+						]
+					},
+					"inputDataExample": "{}",
+					"outputDataExample": "{\"products\": [{\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"description\": \"A high-quality espresso machine.\", \"price\": 499.99}, {\"id\": \"prod_2\", \"name\": \"Coffee Grinder\", \"description\": \"A burr grinder for a consistent grind.\", \"price\": 149.50}]}"
+				},
+				{
+					"simStepId": "dcf59c8b-e763-4769-bdb5-01d0fe07bca3",
+					"diagramNodeId": "8e736ede-cd81-4698-8aaf-ed0e19d696df",
+					"simStepLabel": "Pass Products to Client Component",
+					"simStepDescription": "The fetched product list is passed as a prop from the server component `HomePage` to the client component `CartClient`.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/page.tsx",
+						"startLine": "13",
+						"endLine": "13",
+						"relevantVariables": [
+							"CartClient",
+							"products"
+						]
+					},
+					"inputDataExample": "{\"products\": [{\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"description\": \"A high-quality espresso machine.\", \"price\": 499.99}, {\"id\": \"prod_2\", \"name\": \"Coffee Grinder\", \"description\": \"A burr grinder for a consistent grind.\", \"price\": 149.50}]}",
+					"outputDataExample": "{\"products\": [{\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"description\": \"A high-quality espresso machine.\", \"price\": 499.99}, {\"id\": \"prod_2\", \"name\": \"Coffee Grinder\", \"description\": \"A burr grinder for a consistent grind.\", \"price\": 149.50}]}"
+				},
+				{
+					"simStepId": "cddcbf6b-e460-4b3d-895a-641f73325498",
+					"diagramNodeId": "54061d33-44d9-49eb-a492-976ad13c70ad",
+					"simStepLabel": "Initialize Cart State",
+					"simStepDescription": "The `CartClient` component initializes its state. The `cart` state, which holds the items the user has selected, is set to an empty array.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "14",
+						"endLine": "14",
+						"relevantVariables": [
+							"useState",
+							"cart",
+							"setCart"
+						]
+					},
+					"inputDataExample": "{\"products\": [{\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"description\": \"A high-quality espresso machine.\", \"price\": 499.99}]}",
+					"outputDataExample": "{\"cart\": []}"
+				},
+				{
+					"simStepId": "9962ec76-a38f-4c24-9843-9418e24e237a",
+					"diagramNodeId": "7d27ab69-02a9-452e-81e9-263dba6353e8",
+					"simStepLabel": "Provide Cart State for Rendering",
+					"simStepDescription": "The empty `cart` array is passed to the component's render logic to determine what to display.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "73",
+						"endLine": "73",
+						"relevantVariables": [
+							"cart"
+						]
+					},
+					"inputDataExample": "{\"cart\": []}",
+					"outputDataExample": "{\"cart\": []}"
+				},
+				{
+					"simStepId": "6fb0eb0b-b977-453c-ba45-5b72f2824c6e",
+					"diagramNodeId": "7e1f09eb-f5d5-4bf8-b620-6624578e1b61",
+					"simStepLabel": "Render Empty Cart View",
+					"simStepDescription": "The component checks the cart's length. Since it's zero, it displays the message 'Your cart is empty.'",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "73",
+						"endLine": "75",
+						"relevantVariables": [
+							"cart"
+						]
+					},
+					"inputDataExample": "{\"cart.length\": 0}",
+					"outputDataExample": "{\"renderedMessage\": \"Your cart is empty.\"}"
+				},
+				{
+					"simStepId": "3be6d2cb-4c3a-434d-a672-56d822da164d",
+					"diagramNodeId": "e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+					"simStepLabel": "User Action: Add Item",
+					"simStepDescription": "The user clicks the 'Add to cart' button for a product. This action triggers the `addToCart` function, passing the specific product object.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "64",
+						"endLine": "64",
+						"relevantVariables": [
+							"onClick",
+							"addToCart",
+							"product"
+						]
+					},
+					"inputDataExample": "{\"event\": \"click\", \"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"description\": \"A high-quality espresso machine.\", \"price\": 499.99}}",
+					"outputDataExample": "{\"event\": \"click\", \"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"description\": \"A high-quality espresso machine.\", \"price\": 499.99}}"
+				},
+				{
+					"simStepId": "57a570b5-8d10-44bb-862a-2670b06ace70",
+					"diagramNodeId": "d9a5ec79-88cf-402c-9689-22baae77f62b",
+					"simStepLabel": "Update Cart State",
+					"simStepDescription": "The `addToCart` function is executed. It checks if the product already exists. Since it's the first time, it adds the product to the cart with a quantity of 1 and updates the state via `setCart`, triggering a re-render.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "25",
+						"endLine": "37",
+						"relevantVariables": [
+							"addToCart",
+							"setCart",
+							"product"
+						]
+					},
+					"inputDataExample": "{\"previousCartState\": [], \"productToAdd\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}}",
+					"outputDataExample": "{\"newCartState\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}]}"
+				},
+				{
+					"simStepId": "89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe",
+					"diagramNodeId": "075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+					"simStepLabel": "Propagate State Change",
+					"simStepDescription": "The updated `cart` state is now available within the component for the new render cycle.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "14",
+						"endLine": "14",
+						"relevantVariables": [
+							"cart"
+						]
+					},
+					"inputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}]}",
+					"outputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}]}"
+				},
+				{
+					"simStepId": "0a616806-6b86-4ac5-862a-d299cf6319f5",
+					"diagramNodeId": "d768d12c-16d0-4c35-af77-c29f217b9fbf",
+					"simStepLabel": "Recalculate Cart Total",
+					"simStepDescription": "The `total` is recalculated using `useMemo`. Because its dependency `cart` has changed, the `reduce` function runs over the new cart items to compute the new total.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "16",
+						"endLine": "23",
+						"relevantVariables": [
+							"useMemo",
+							"total",
+							"cart",
+							"reduce"
+						]
+					},
+					"inputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}]}",
+					"outputDataExample": "{\"total\": 499.99}"
+				},
+				{
+					"simStepId": "6926000a-2c07-4250-884d-1a14b252ea28",
+					"diagramNodeId": "db6522df-5f59-45dd-92f0-68dcdb32c636",
+					"simStepLabel": "Provide Updated Data for Rendering",
+					"simStepDescription": "The updated `cart` array and the newly calculated `total` are passed to the JSX for rendering the populated cart view.",
+					"isEdge": 1,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "78",
+						"endLine": "105",
+						"relevantVariables": [
+							"cart",
+							"total"
+						]
+					},
+					"inputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}], \"total\": 499.99}",
+					"outputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}], \"total\": 499.99}"
+				},
+				{
+					"simStepId": "67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a",
+					"diagramNodeId": "a3bdacbc-06a8-4564-9450-3d3b03feea24",
+					"simStepLabel": "Render Populated Cart View",
+					"simStepDescription": "The component re-renders. The `cart.length` is now greater than zero, so it maps over the `cart` items, displaying each item's name, quantity, and subtotal. The final total price is also displayed.",
+					"isEdge": 0,
+					"sourceCodeMapping": {
+						"filePath": "app/components/CartClient.tsx",
+						"startLine": "76",
+						"endLine": "109",
+						"relevantVariables": [
+							"cart.map",
+							"item",
+							"formatPrice",
+							"total"
+						]
+					},
+					"inputDataExample": "{\"cart\": [{\"product\": {\"id\": \"prod_1\", \"name\": \"Espresso Machine\", \"price\": 499.99}, \"qty\": 1}], \"total\": 499.99}",
+					"outputDataExample": "{\"renderedCartItem\": \"Espresso Machine x 1 - $499.99\", \"renderedTotal\": \"Total: $499.99\"}"
+				}
+			],
+			"description": "<ul><li>Users can view a real-time summary of the items they have selected</li><li>- A dedicated Cart section on the page displays all items currently in the cart</li><li>- For each item, it shows the product name, the quantity selected, and the calculated subtotal for that item</li><li>- If no items have been added, a message Your cart is empty</li><li>is displayed</li><li>- The view updates instantly whenever an item is added, removed, or has its quantity changed</li></ul>",
+			"simulationNodesAndEdges": {
+				"06e2c96a-b43f-4d58-9793-a2175688e005": {
+					"simStepIds": [
+						"817a109a-4e2e-441d-b406-ccbe8fb87f79"
+					]
+				},
+				"54061d33-44d9-49eb-a492-976ad13c70ad": {
+					"simStepIds": [
+						"cddcbf6b-e460-4b3d-895a-641f73325498"
+					]
+				},
+				"7e1f09eb-f5d5-4bf8-b620-6624578e1b61": {
+					"simStepIds": [
+						"6fb0eb0b-b977-453c-ba45-5b72f2824c6e"
+					]
+				},
+				"d9a5ec79-88cf-402c-9689-22baae77f62b": {
+					"simStepIds": [
+						"57a570b5-8d10-44bb-862a-2670b06ace70"
+					]
+				},
+				"d768d12c-16d0-4c35-af77-c29f217b9fbf": {
+					"simStepIds": [
+						"0a616806-6b86-4ac5-862a-d299cf6319f5"
+					]
+				},
+				"a3bdacbc-06a8-4564-9450-3d3b03feea24": {
+					"simStepIds": [
+						"67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a"
+					]
+				},
+				"8e736ede-cd81-4698-8aaf-ed0e19d696df": {
+					"simStepIds": [
+						"dcf59c8b-e763-4769-bdb5-01d0fe07bca3"
+					]
+				},
+				"7d27ab69-02a9-452e-81e9-263dba6353e8": {
+					"simStepIds": [
+						"9962ec76-a38f-4c24-9843-9418e24e237a"
+					]
+				},
+				"e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28": {
+					"simStepIds": [
+						"3be6d2cb-4c3a-434d-a672-56d822da164d"
+					]
+				},
+				"075b3ac0-6c05-4f2e-8a34-b8e93df2b966": {
+					"simStepIds": [
+						"89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe"
+					]
+				},
+				"db6522df-5f59-45dd-92f0-68dcdb32c636": {
+					"simStepIds": [
+						"6926000a-2c07-4250-884d-1a14b252ea28"
+					]
+				}
+			},
+			"isAIGenerated": true,
+			"keywords": "cart, CartItem, map, total, Your cart is empty, formatPrice",
+			"generationPrompt": "How viewing the shopping cart works",
+			"generationKeywords": "cart, CartItem, map, total, Your cart is empty, formatPrice",
+			"meta": {
+				"containerCoverage": {
+					"perContainerTotals": {
+						"frontend": {
+							"promptFileCount": 4,
+							"promptTokenCount": 1358,
+							"suggestedFileCount": 5
+						},
+						"server": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						},
+						"drawio": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						},
+						"shared": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 3
+						},
+						"unknown": {
+							"promptFileCount": 0,
+							"promptTokenCount": 0,
+							"suggestedFileCount": 0
+						}
+					},
+					"missingContainers": [],
+					"addedFiles": []
+				}
+			}
+		},
+		"How the cart total calculation works": {
+			"name": "How the cart total calculation works",
+			"simSteps": [],
+			"description": "<ul><li>The application provides users with a running total of the cost of their selected items</li><li>- The total cost is calculated by summing the prices of all items in the cart, multiplied by their respective quantities</li><li>- React's <code>useMemo</code> hook is used to efficiently recalculate the total only when the cart's contents change</li><li>- The final calculated total is formatted as a price string (e</li><li>g</li><li>, '$56</li><li>00') and displayed prominently below the cart items</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "total, useMemo, reduce, price, qty, formatPrice",
+			"generationPrompt": "How the cart total calculation works",
+			"generationKeywords": "total, useMemo, reduce, price, qty, formatPrice"
+		},
+		"How removing items from the cart works": {
+			"name": "How removing items from the cart works",
+			"simSteps": [],
+			"description": "<ul><li>This feature allows users to adjust their cart by removing items one by one</li><li>- Each item listed in the cart has a Remove one button</li><li>- Clicking this button calls the <code>removeFromCart</code> function, which decreases the item's quantity by one</li><li>- If an item's quantity becomes zero after the decrease, it is completely removed from the cart using a <code>filter</code> operation</li><li>- The cart display and the total price are updated immediately to reflect the change</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "removeFromCart, setCart, filter, qty, item.product.id, Remove one",
+			"generationPrompt": "How removing items from the cart works",
+			"generationKeywords": "removeFromCart, setCart, filter, qty, item.product.id, Remove one"
+		},
+		"How item quantity modification in the cart works": {
+			"name": "How item quantity modification in the cart works",
+			"simSteps": [],
+			"description": "<ul><li>Users can easily modify the quantity of items directly from the cart view</li><li>- The cart provides an Add one and Remove one button for each item</li><li>- Add one re-uses the <code>addToCart</code> logic to increment the quantity of an existing item</li><li>- Remove one uses the <code>removeFromCart</code> logic to decrement the quantity</li><li>- This provides fine-grained control over the cart's contents without having to find the product again in the main catalog</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "addToCart, removeFromCart, qty, Add one, Remove one, existing",
+			"generationPrompt": "How item quantity modification in the cart works",
+			"generationKeywords": "addToCart, removeFromCart, qty, Add one, Remove one, existing"
+		},
+		"How clearing the entire cart works": {
+			"name": "How clearing the entire cart works",
+			"simSteps": [],
+			"description": "<ul><li>This provides a quick way for users to empty their shopping cart and start over</li><li>- A Clear cart button is visible whenever there is at least one item in the cart</li><li>- When clicked, the <code>clearCart</code> function is executed</li><li>- This function resets the cart's state to an empty array (<code></code>)</li><li>- The cart display immediately updates to show the Your cart is empty</li><li>message</li></ul>",
+			"simulationNodesAndEdges": {},
+			"isAIGenerated": true,
+			"keywords": "clearCart, setCart, onClick, Clear cart, cart.length",
+			"generationPrompt": "How clearing the entire cart works",
+			"generationKeywords": "clearCart, setCart, onClick, Clear cart, cart.length"
+		}
+	},
+	"cellToPath": {
+		"0077efbb-26d7-45a1-92be-9204088ebab5": "app",
+		"3d7f740b-2cd4-4347-b906-705086b5a9b7": "app/page.tsx",
+		"550a370e-b488-474d-a575-1e281cea4b25": "app/actions.ts",
+		"c16663fa-ffe2-4ffd-8c22-408e85064a9f": "app/components",
+		"0abbe4db-b34d-4ce1-925e-202bb2dffd29": "app/components/CartClient.tsx",
+		"3ddf6a67-11e0-4e3f-ba9c-a8a54210b8ab": "app/page.tsx-simstep-b3bed192-826c-4188-956d-3ec966d86d94",
+		"c13be024-c50c-4f4d-9667-9389d4359c6e": "app/actions.ts-simstep-a194bc54-11ae-4778-b79f-fa0b9b170287",
+		"3dc3f7a6-7e72-41a7-b55e-396b66a9ddf1": "app/page.tsx-simstep-13525ef4-0983-4348-80dd-83a3c26ab41d",
+		"b9036e51-8986-4dc2-87ce-36cc2d607b53": "app/components/CartClient.tsx-simstep-4dec501c-7cb6-4b52-95b8-76335e1b3c6b",
+		"c7bb45aa-e517-444a-8b5e-d03f27aac52d": "generated-edge-simstep-42dea36f-7871-4f94-ae1a-2a08053bfdb6-c7bb45aa-e517-444a-8b5e-d03f27aac52d",
+		"7dee1b22-51c1-4ab9-bf5a-fb2d782329a6": "generated-edge-simstep-0fe032a8-e57f-4fa7-b81a-f8c3e9729e30-7dee1b22-51c1-4ab9-bf5a-fb2d782329a6",
+		"b8eac258-6ad8-4d45-9e92-e0104a90b4c3": "generated-edge-simstep-cdbc7c52-7163-432c-9975-cdc37cbffc71-b8eac258-6ad8-4d45-9e92-e0104a90b4c3",
+		"5bbcf44c-740e-4b97-95c4-eddc7c8a964d": "app/components/CartClient.tsx-simstep-6a960b7f-2864-4a8b-9218-45ab7b84b918",
+		"f9392483-98e0-4d02-b255-a12493a1df65": "app/components/CartClient.tsx-simstep-f356269e-6270-4c98-9af9-9e92c81617a1",
+		"228daf9b-9e4a-4ff8-b1e7-1c5f0d99774a": "app/components/CartClient.tsx-simstep-183cdec9-1f52-4082-971a-a57d375d00e5",
+		"79014061-99e0-4796-bf4d-ad384be860b4": "app/components/CartClient.tsx-simstep-01780247-5a0b-49da-9837-ba1220203264",
+		"58c42def-fd4c-4d64-bcb1-d041dff8ebb5": "generated-edge-simstep-68432812-be88-4088-9c4f-1a810d648568-58c42def-fd4c-4d64-bcb1-d041dff8ebb5",
+		"db592b4a-e2bd-475c-afd4-cfe94b190a5e": "generated-edge-simstep-6469296e-dd27-459a-8c87-32c212c3ad74-db592b4a-e2bd-475c-afd4-cfe94b190a5e",
+		"1c3757c3-68cb-43ed-96e6-f0df07d963fc": "generated-edge-simstep-37508e07-d977-436e-a001-5911055e6576-1c3757c3-68cb-43ed-96e6-f0df07d963fc",
+		"06e2c96a-b43f-4d58-9793-a2175688e005": "app/page.tsx-simstep-817a109a-4e2e-441d-b406-ccbe8fb87f79",
+		"54061d33-44d9-49eb-a492-976ad13c70ad": "app/components/CartClient.tsx-simstep-cddcbf6b-e460-4b3d-895a-641f73325498",
+		"7e1f09eb-f5d5-4bf8-b620-6624578e1b61": "app/components/CartClient.tsx-simstep-6fb0eb0b-b977-453c-ba45-5b72f2824c6e",
+		"d9a5ec79-88cf-402c-9689-22baae77f62b": "app/components/CartClient.tsx-simstep-57a570b5-8d10-44bb-862a-2670b06ace70",
+		"d768d12c-16d0-4c35-af77-c29f217b9fbf": "app/components/CartClient.tsx-simstep-0a616806-6b86-4ac5-862a-d299cf6319f5",
+		"a3bdacbc-06a8-4564-9450-3d3b03feea24": "app/components/CartClient.tsx-simstep-67fc74a6-a9b0-4dcd-8b98-eda7cf9af43a",
+		"8e736ede-cd81-4698-8aaf-ed0e19d696df": "generated-edge-simstep-dcf59c8b-e763-4769-bdb5-01d0fe07bca3-8e736ede-cd81-4698-8aaf-ed0e19d696df",
+		"7d27ab69-02a9-452e-81e9-263dba6353e8": "generated-edge-simstep-9962ec76-a38f-4c24-9843-9418e24e237a-7d27ab69-02a9-452e-81e9-263dba6353e8",
+		"e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28": "generated-edge-simstep-3be6d2cb-4c3a-434d-a672-56d822da164d-e392ee22-9f7a-4bd0-93d1-0d18dd2a0d28",
+		"075b3ac0-6c05-4f2e-8a34-b8e93df2b966": "generated-edge-simstep-89d012aa-e1a7-4e1e-ac14-8f6efe1ce5fe-075b3ac0-6c05-4f2e-8a34-b8e93df2b966",
+		"db6522df-5f59-45dd-92f0-68dcdb32c636": "generated-edge-simstep-6926000a-2c07-4250-884d-1a14b252ea28-db6522df-5f59-45dd-92f0-68dcdb32c636"
+	}
+}
